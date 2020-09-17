@@ -1,0 +1,11 @@
+.banner{
+    height: 300px;
+    background-image: url('../../images/bannerbackground.png');
+    background-position: center center;
+    background-size: 110% 110%;
+}
+
+.banner h1{
+    text-align: center;
+    padding-top: 50px;
+}
